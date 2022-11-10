@@ -32,7 +32,7 @@
     "koa-static": "^5.0.0",
     "open": "^0.0.5",
     "opencollective-postinstall": "^2.0.2",
-    "serve-handler": "^5.0.8",
+    "serve-handler": "^6.1.5",
     "yargs": "^13.2.2"
   },
   "scripts": {
